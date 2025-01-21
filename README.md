@@ -1,9 +1,8 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Ognjen
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Enthusiastic and highly motivated aspiring cybersecurity professional actively looking for a cybersecurity role. I'm actively building my skills through online coursework and hands-on projects in areas such as ethical hacking and security tools usage, aiming to contribute to a security team.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
