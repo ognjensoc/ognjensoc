@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Azure SOC Lab: Threat Detection with Sentinel | <a href="https://github.com/ognjensoc/Azure-SOC-Lab/tree/main">Azure SOC Lab</a>|
-| SOAR Automation with Tines & LimaCharlie EDR | <a href="https://google.com">SOAR Automation</a>|
+| SOAR Automation with Tines & LimaCharlie EDR | <a href="https://github.com/ognjensoc/SOAR-Automation/tree/main">SOAR Automation</a>|
 
 ## Tools
 
@@ -44,4 +44,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/ognjensoc/Azure-SOC-Lab/tree/main">Azure SOC Lab: Threat Detection with Sentinel</a>
-- SOAR Automation with Tines & LimaCharlie EDR
+- <a href="https://github.com/ognjensoc/SOAR-Automation/tree/main">SOAR Automation with Tines & LimaCharlie EDR</a>
