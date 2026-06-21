@@ -4,10 +4,6 @@
 
 Cyber Security Analyst with experience in security operations, compliance, and incident response within enterprise environments. I hold CompTIA Security+ and Blue Team Level 1 (BTL1) certifications and enjoy continuously developing practical skills across cybersecurity domains. Currently focused on expanding my knowledge of Microsoft Azure and cloud technologies, with a long-term interest in specializing in cloud security while maintaining a strong foundation in defensive security and threat detection.
 
-## Objective
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
 ## Skills
 
 | Skill                                         | Associated Project         |
