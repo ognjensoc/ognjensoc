@@ -2,7 +2,7 @@
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Enthusiastic and highly motivated aspiring cybersecurity professional actively looking for a cybersecurity role. I'm actively building my skills through online coursework and hands-on projects in areas such as ethical hacking and security tools usage, aiming to contribute to a security team.
+Cyber Security Analyst with experience in security operations, compliance, and incident response within enterprise environments. I hold CompTIA Security+ and Blue Team Level 1 (BTL1) certifications and enjoy continuously developing practical skills across cybersecurity domains. Currently focused on expanding my knowledge of Microsoft Azure and cloud technologies, with a long-term interest in specializing in cloud security while maintaining a strong foundation in defensive security and threat detection.
 
 ## Objective
 
